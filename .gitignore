@@ -1,3 +1,5 @@
+blog/__pycache__
+mysite/__pycache__
 *.pyc
 __pycache__
 myvenv
